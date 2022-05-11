@@ -3,8 +3,8 @@
 ##DCASH
 
 
-Frontend : React
-Backend : Motoku
+Frontend : React,
+Backend : Motoko
 
 #start the server 
  ```bash
