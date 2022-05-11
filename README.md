@@ -1,3 +1,31 @@
+
+
+##DCASH
+
+
+Frontend : React
+Backend : Motoku
+
+#start the server 
+ ```bash
+#download all the required node modules
+node install
+
+# Starts the replica, running in the background
+dfx start --background
+
+# Deploys your canisters to the replica and generates your candid interface
+dfx deploy
+
+# Open a second terminal and start your frontend
+npm start
+
+```
+*TRANSFER FUNSTION STILL IN WORKS*
+
+
+
+
 # Check your Balance
 
 1. Find out your principal id:
